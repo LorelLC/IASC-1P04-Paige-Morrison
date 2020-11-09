@@ -6,3 +6,6 @@ Playtest my game [here]
 
 # Prototype
 Play the prototype [here](Prototype/TwineGamePrototype (2).html)
+
+# Survey
+You can access my prototype survey [here]
