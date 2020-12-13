@@ -2,7 +2,7 @@
 This is a Github repository for my submissions in the IASC 1PO4 course, Fall 2020
 
 # Play Now
-Play my game [here]()
+Play my game [here](Final/TwineGameFinal.html)
 
 # Prototype
 Play the prototype [here](Prototype/TwineGamePrototype (2).html)
